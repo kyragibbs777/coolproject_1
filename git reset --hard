@@ -1,0 +1,31 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 72ff26a..4f77026 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,10 +1 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    [m
+[31m-    <title>My Cool Project</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    [m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32monbgfkjcxnvlkdsnlv[m
+\ No newline at end of file[m
+[1mdiff --git a/styles.css b/styles.css[m
+[1mindex 5210703..f418216 100644[m
+[1m--- a/styles.css[m
+[1m+++ b/styles.css[m
+[36m@@ -1,5 +1 @@[m
+[31m-/* styles */[m
+[31m-p {[m
+[31m-    color: red[m
+[31m-[m
+[31m-}[m
+\ No newline at end of file[m
+[32m+[m[32mkjbdvkn v[m
+\ No newline at end of file[m
